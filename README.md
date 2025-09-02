@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Loan Predicton App 
 ```
-⬆️ (Replace above with your app's name)
+This is a Loan Prediction App
 ```
 
 Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Loan-Prediction-App.streamlit.app/)
 
 ## GitHub Codespaces
 
